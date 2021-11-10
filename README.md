@@ -3,6 +3,25 @@ Yet Another Random Cat Name Generator
 
 This command generates a random cat name.
 
+```
+$ randomcat
+ShyGeorge
+$ randomcat
+FoolishWillow
+$ randomcat
+ConfusedCuddles
+$ randomcat
+HelpfulMaggie
+$ randomcat
+DifferentKiki
+```
+
+### Usage ###
+
+```
+$ randomcat [no argument]
+```
+
 ### Dependency ###
 - fortune
  
