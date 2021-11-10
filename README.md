@@ -36,6 +36,11 @@ sudo tar xvf randomcat.tar.gz  --no-overwrite-dir -C /usr/local
 Execute the ./build command to create a tar ball which contains the install
 image of `randomcat`.
 
+### TODO ###
+
+- Create a deb package.
+- Create an official website.
+
 
 ### License ###
 
